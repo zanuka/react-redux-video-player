@@ -1,6 +1,6 @@
 {
   "name": "react-redux-video-player",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Video player built with React, Redux and Babel support",
   "main": "index.js",
   "repository": "git@github.com:zanuka/react-redux-video-player.git",
