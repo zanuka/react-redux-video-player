@@ -16,7 +16,7 @@ class App extends Component {
       selectedVideo: null
     };
 
-    this.videoSearch('sandpoint');
+    this.videoSearch('react javascript');
   }
 
   videoSearch(term) {
