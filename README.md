@@ -1,7 +1,7 @@
-# react-redux-video-player
+# videomatic
 [![Known Vulnerabilities](https://snyk.io/test/github/zanuka/react-redux-video-player/badge.svg?targetFile=package.json)](https://snyk.io/test/github/zanuka/react-redux-video-player?targetFile=package.json)
 
-![](./img/playa.jpg)
+![](./img/videomatic.jpg)
 
 video player using react for components and redux for player state
 
