@@ -1,5 +1,5 @@
 # videomatic
-[![Known Vulnerabilities](https://snyk.io/test/github/zanuka/react-redux-video-player/badge.svg?targetFile=package.json)](https://snyk.io/test/github/zanuka/react-redux-video-player?targetFile=package.json)
+[![Known Vulnerabilities](https://snyk.io/test/github/zanuka/videomatic/badge.svg?targetFile=package.json)](https://snyk.io/test/github/zanuka/videomatic?targetFile=package.json)
 
 ![](./img/videomatic.jpg)
 
