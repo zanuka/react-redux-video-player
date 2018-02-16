@@ -21,5 +21,4 @@ video player using react for components
 webpack-dev-server will be running :: open browser to http://localhost:8080/
 
 ## roadmap
-
   - see [issues](https://github.com/zanuka-labs/videomatic/issues)
